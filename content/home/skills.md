@@ -24,7 +24,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Data engineering"
-  description = "Automated data assimilation, database engineering, and ETL pipelines for the most complex problems."  
+  description = "Automated data assimilation, database engineering, APIs, in-situ sensor networks, and ETL pipelines."  
   
 [[feature]]
   icon = "atom"
@@ -42,13 +42,11 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Dashboards"
-  description = "Real-time, automated, custome data visualization dashbaords and reports."  
+  description = "Real-time, automated, custome data visualization dashboards and reports."  
 
 [[feature]]
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Math and statistics"
-  description = "Customized consulting on mathematical and statistical appraoches to your problems."  
-
-
+  description = "Customized consulting on mathematical and statistical approaches to environmental issues."  
 +++
