@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Aakash Ahmed
+name: Aakash Ahamed
 
 # Rich (this should match the folder name)
 authors:
@@ -49,18 +49,18 @@ social:
   link: https://twitter.com/HydroGeoPhys
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://scholar.google.com/citations?user=SKP6MzMAAAAJ&hl=en&oi=sra
 - icon: github-alt
   icon_pack: fab
-  link: https://github.com/richpauloo
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
+  link: https://github.com/kashingtonDC
+#- icon: stack-overflow
+#  icon_pack: fab
+#  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://richpauloo.com/cv
+#- icon: cv
+#  icon_pack: ai
+#  link: https://richpauloo.com/cv
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

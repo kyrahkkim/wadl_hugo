@@ -45,7 +45,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Data 📈"
-  content = "we build and automate in-sutu sensor networks, dashboards, databases, APIs, and ETL pipelines"
+  content = "we build and automate machine learning workflows, sensor networks, dashboards, databases, APIs, and ETL pipelines"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.

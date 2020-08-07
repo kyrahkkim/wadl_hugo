@@ -44,23 +44,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/RichPauloo
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/RichPauloo
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github-alt
-  icon_pack: fab
-  link: https://github.com/richpauloo
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
+#- icon: github-alt
+#  icon_pack: fab
+#  link: https://github.com/richpauloo
+#- icon: stack-overflow
+#  icon_pack: fab
+#  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://richpauloo.com/cv
+  link: https://kyrakimcom.files.wordpress.com/2020/01/cv_kim_han-kyul.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

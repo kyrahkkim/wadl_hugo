@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Remote sensing expert
+role: Glassier guru
 
 # Organizations/Affiliations
 #organizations:
@@ -48,13 +48,13 @@ social:
   link: https://twitter.com/borderwater
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://scholar.google.com/citations?user=87bjVPcAAAAJ&hl=en&oi=ao
 - icon: github-alt
   icon_pack: fab
-  link: https://github.com/richpauloo
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
+  link: https://github.com/porefluid
+#- icon: stack-overflow
+#  icon_pack: fab
+#  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
