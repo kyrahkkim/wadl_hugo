@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Aakash Ahamed
+name: Aakash Ahamed, MS
 
 # Rich (this should match the folder name)
 authors:
 - Aakash
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position
 role: Hydrogeophysist
@@ -18,22 +18,24 @@ role: Hydrogeophysist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yaddah yaddah.
+#bio: 
 
 interests:
-- Remote sensing of groundwater
+- Remote sensing of water
 - Data assimilation and machine learning
 - InSAR
-- Looking good, feeling good
 
 education:
   courses:
   - course: PhD in Geophysics
     institution: Stanford
     year: 2022
-  - course: BS in something
-    institution: somewhere
-    year: some year
+  - course: MSc in Hydrology
+    institution: Boston College
+    #year: 2014
+  - course: BS geosciences, BA Government (with honors)
+    institution: Franklin and Marshall College
+    #year: 2012
 
 
 # Social/Academic Networking
@@ -41,9 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HydroGeoPhys
@@ -58,9 +60,9 @@ social:
 #  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: https://richpauloo.com/cv
+- icon: cv
+  icon_pack: ai
+  link: https://cap.stanford.edu/profiles/viewCV?facultyId=180319&name=Aakash_Ahamed
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principals
+- Partners
 ---
 
-I am a hydrogeophysicist developing scientific methods for satellite and airborne remote sensing measurements with applications to water resources, natural hazards, and agricultural systems.
+Aakash Ahamed is a hydrologist developing scientific methods for satellite and airborne remote sensing measurements with applications to water resources, natural hazards, and agricultural systems. As a PhD Candidate in the Department of Geophysics, his current doctoral project focuses on modeling, monitoring, and forecasting key hydrologic components of the Central Valley Aquifer System in California using techniques in data assimilation and machine learning. Aakash previously worked as a support scientist in the Hydrological Sciences Lab at NASA Goddard Space Flight Center, where he constructed satellite-based models of flood and landslide hazards. He has also developed remote sensing analyses and software at Ceres Imaging, a successful precision agriculture start up based in Silicon Valley, and interned as a GIS analyst at the World Wildlife Fund for Nature in Washington, DC.

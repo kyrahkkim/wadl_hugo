@@ -17,14 +17,14 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "WAter Data Lab"
-  content = "Full stack hydrology, data science, and data engineering"
+  content = "Hydrologic data science and engineering"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "delta_cir_2.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -41,7 +41,7 @@ height = "calc(100vh - 70px)"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "shasta.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Data 📈"
@@ -50,5 +50,5 @@ height = "calc(100vh - 70px)"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "spectral_unmixing_2.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 +++

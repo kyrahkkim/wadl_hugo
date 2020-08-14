@@ -7,7 +7,7 @@ authors:
 - Rich
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position
 role: Hydrogeologist
@@ -18,10 +18,10 @@ role: Hydrogeologist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
+#bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
 
 interests:
-- 3D groundwater flow and contaminant transport simulation
+- 3D groundwater flow and contaminant transport
 - Mathematical modeling of hydrologic systems
 - Real-time, in-situ sensor networks
 - Data science and open source software
@@ -30,10 +30,8 @@ education:
   courses:
   - course: PhD in Hydrogeology
     institution: UC Davis
-    year: 2020
-  - course: BS in Biology, minor in Conflict Resolution
+  - course: Bachelors in Biology, minor in Conflict Resolution
     institution: UC Berkeley
-    year: 2011
 
 
 # Social/Academic Networking
@@ -41,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RichPauloo
@@ -68,7 +66,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principals
+- Partners
 ---
 
-I'm a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought or unsustainable management. 
+I'm a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. 
+
+I've built physical [simulation models](https://www.richpauloo.com/publication/vhgr/) of groundwater flow and contaminant transport, open source frameworks for [real-time groundwater monitoring](https://www.richpauloo.com/project/lcsn/), models that predict if a [well may run dry](https://www.richpauloo.com/publication/well-failure/)) during drought or unsustainable management (complete with [dashboards to communicate these findings](https://www.gsawellfailure.com)), award-winning applications that bring clarity to [massive datasets]((http://www.calwaterquality.com)), and `R` packages like [this one](https://github.com/richpauloo/textme).

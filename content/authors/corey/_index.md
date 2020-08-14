@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Corey Scher
+name: Corey Scher, MS
 
-# Rich (this should match the folder name)
+# Corey (this should match the folder name)
 authors:
 - Corey
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position
-role: Glassier guru
+role: Geologist and remote sensing expert
 
 # Organizations/Affiliations
 #organizations:
@@ -18,21 +18,24 @@ role: Glassier guru
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yaddah yaddah.
+#bio: Yaddah yaddah.
 
 interests:
-- Remote sensing of groundwater
-- Glassiers
-- Radar remote sensing
+- Remote sensing 
+- Hydrology
+- Critical physical geography
 
 education:
   courses:
-  - course: PhD in Hydrology
+  - course: PhD in Earth and Environmental Science
     institution: City University of New York
-    year: 2022
-  - course: BS in Geology
+    year: expected 2022
+  - course: MS in Geology
+    institution: City University of New York
+    #year: some year
+  - course: Bachelors in Geology
     institution: UC Berkeley
-    year: some year
+    #year: some year
 
 
 # Social/Academic Networking
@@ -40,9 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/borderwater
@@ -67,7 +70,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principals
+- Partners
 ---
 
-I'm a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring. I've built simulations of groundwater flow and contaminant transport, open source frameworks for real-time groundwater monitoring, and models that predict if a well may run dry during drought or unsustainable management. 
+I develop methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources.
+
+I was born and raised in Berkeley, CA.
