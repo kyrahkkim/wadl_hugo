@@ -31,7 +31,7 @@ education:
     institution: University of Deleware
     #year: 2019
   - course: BS in Geology (high honors), BA in Music and Ethnomusicology (piano)
-    institution: somewhere
+    institution: University of Texas at Austin
     #year: 2013
 
 
